@@ -150,8 +150,9 @@ The lane mapping (defined in `lane_mapping` function in cell #7 in `Code.ipynb`)
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to project video result](./project_video_output.mp4)
-Here's a [link to challenge video result](./challenge_video_output.mp4)
+Here's a [link to project video result](./project_video_output.mp4). It can also be viewed on [this youtube link](https://youtu.be/dR4aHXyCI9U)
+
+Here's a [link to challenge video result](./challenge_video_output.mp4). It can also be viewed on [this youtube link](https://youtu.be/WBozdwYHUY4)
 
 ---
 
@@ -159,4 +160,4 @@ Here's a [link to challenge video result](./challenge_video_output.mp4)
 
 #### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
-Here I'll talk about the approach I took, what techniques I used, what worked and why, where the pipeline might fail and how I might improve it if I were going to pursue this project further.  
+This is a very exiting project since it is to improve the performance of lane finding in project 1 by implementing steps like camera calibration , finding the gradient magnitude and direction, color thresholding and perspective transformatoin, etc. It is performing well and robust on project_video.mp4. But for challenge_video.mp4 it is not performing very well on conditions like having an extra dark line on the road which is not the lane line, shaded areas like under the bridge and when a car very close to the lane line passed by that is generating a dark line that is more obvious than the lane line. The pipeline could be made more robust by normalizing image to account for illumination variations.
