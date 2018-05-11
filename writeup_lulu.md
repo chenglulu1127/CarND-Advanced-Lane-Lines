@@ -19,12 +19,21 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/Undistorted%20Image.png "Undistorted"
-[image2]: ./test_images/test1.jpg "Road Transformed"
-[image3]: ./examples/binary_combo_example.jpg "Binary Example"
-[image4]: ./examples/warped_straight_lines.jpg "Warp Example"
-[image5]: ./examples/color_fit_lines.jpg "Fit Visual"
-[image6]: ./examples/example_output.jpg "Output"
+[image1]: ./output_images/Undistorted%20Image.png "Undistorted Image"
+[image2]: ./output_images/Undistorted%20and%20Warped%20Image.png "Undistorted and Warped"
+[image3]: ./output_images/calibration_plot.png "calibration_plot"
+[image4]: ./output_images/Undistorted.png "Undistorted"
+[image5]: ./output_images/Sobel%20X.png "Sobel X"
+[image6]: ./output_images/Sobel%20Y.png "Sobel Y"
+[image7]: ./output_images/Gradient%20Magnitude.png "Gradient Magnitude"
+[image8]: ./output_images/Gradient%20Direction.png "Gradient Direction"
+[image9]: ./output_images/Color%20Thresholds.png "Color Thresholds"
+[image10]: ./output_images/Multi%20Thresholds.png "Multi Thresholds"
+[image11]: ./output_images/Region%20Masking.png "Region Masking"
+
+
+
+
 [video1]: ./project_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
