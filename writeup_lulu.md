@@ -30,11 +30,15 @@ The goals / steps of this project are the following:
 [image9]: ./output_images/Color%20Thresholds.png "Color Thresholds"
 [image10]: ./output_images/Multi%20Thresholds.png "Multi Thresholds"
 [image11]: ./output_images/Region%20Masking.png "Region Masking"
-
-
-
-
+[image12]: ./output_images/Perspective%20Transform.png "Perspective Transform"
+[image13]: ./output_images/Sliding%20Windows.png "Sliding Windows"
+[image14]: ./output_images/Shaded%20Lanes.png "Shaded Lanes"
+[image15]: ./output_images/Lane%20Mapping.png "Lane Mapping"
 [video1]: ./project_video.mp4 "Video"
+[video2]: ./project_video_output.mp4 "Video Output"
+[video3]: ./challenge_video.mp4 "Challenge Video"
+[video4]: ./challenge_video_output.mp4 "Challenge Video Output"
+
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
